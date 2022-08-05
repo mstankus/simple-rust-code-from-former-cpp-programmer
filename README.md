@@ -1,6 +1,7 @@
 # simple-rust-code-from-former-cpp-programmer
-I used to program C++. Now I am learning rust. I want to create a crate for each simple idea. Each crate will be super short.
+I used to program C++. Now I am learning the programming language Rust. 
 
+I am recording simple examples of a number of small features to help others who are learning Rust.
 
 SPDX-License-Identifier: Apache-2.0 or MIT or Boost
 
